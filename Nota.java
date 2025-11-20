@@ -19,7 +19,6 @@ public class Nota {
         System.out.println("A Sua Media é: "  + Media);
         if (Media >+ 7.00  ){
             System.out.println("Voce está Aprovado");
-        }else if(Media == 5 ){
             System.out.println("Voce está de Recuperação");
         }else{
             System.out.println("Voce está Reprovado");
